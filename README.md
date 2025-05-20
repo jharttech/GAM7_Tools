@@ -1,2 +1,2 @@
-# GAM7_Tools
-Rewrite of the GAM_Tools repo for GAM7.
+# GAM_Tools
+Helper tools to go with GAM tools.
